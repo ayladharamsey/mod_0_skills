@@ -1,0 +1,11 @@
+Object: Chicken Parmesan
+
+Attributes:
+Entre_name: Chicken Parmesan
+Entre_price: 15
+Entre_on_happy_hour: false
+
+Methods:
+Order_entree: Utilzed when customer orders this entree, ordered yes
+Remove_entree: Utilized when customer refukes order, not removed 
+Happy_hour: Determines the reduced price if ordered during happy hour, not on happy hour ever
