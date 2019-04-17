@@ -1,0 +1,11 @@
+Class: Entrees
+
+Objects: Chicken Parmesan (string), Caeser Salad (string), Hamburger (string)
+
+Attributes: Entre_name (string), Entre_price (integer or float), Entre_on_happy_hour (boolean)
+
+Methods: Order_entree (Employee orders entree in system for customer untilizing Entre_name)
+
+Remove_entree (Employee removes entree from bill in system for customer utilizing Entre_name and Entre_price)
+
+Happy_hour( Employee runs this method if the customer is purchasing food or drink applicable to happy hour utilizing the Entre_on_happy_hour attribute)
