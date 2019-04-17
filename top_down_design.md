@@ -1,7 +1,7 @@
 # Top Down Design 
 ## How to Get Food at a Restaurant
 
-###Steps:
+### Steps:
 1. Arrive at the restaurant
 	1. From your starting location, open Google Maps and search for the restaurant you wish to eat at.
 	2. Utilizing Google Maps' directions, drive or walk yourself to the restaurant. 
