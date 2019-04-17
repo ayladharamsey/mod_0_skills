@@ -1,0 +1,14 @@
+Class: Employees
+
+Objects: Ayla (string), Sarah (string), Penelope (string), Richard (string)
+
+Attributes: Name (string), Date_working (datetime), Gender (String), Full_time_employee (boolean)
+
+Methods: 
+Calculate_overtime (utilizes Date_working to calculate how long the employee has been working)
+
+Add_Employee( Uses name, gender, and Full_time_employee to create a new profile for the new employee)
+
+Delete_Employee (Deletes information regarding Name, Gender, and Full_time_employee to remove the employee from the system)
+
+Pay_Employee (Accesses Name to send payment to the correct employee)
