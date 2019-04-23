@@ -4,7 +4,7 @@ Attributes:
 Entre_name: Chicken Parmesan
 Entre_price: 15
 Entre_on_happy_hour: false
-Entre_ingredients: Chicken, Parmesean, Tomato Sauce, Flour, Egg, Mozerella, Olive Oil, Basil
+Entre_ingredient: Chicken, Parmesean, Tomato Sauce, Flour, Egg, Mozerella, Olive Oil, Basil
 
 Methods:
 Order_entree: Utilzed when customer orders this entree, ordered yes

@@ -6,6 +6,6 @@ Attributes: Entre_name (string), Entre_price (integer or float), Entre_on_happy_
 
 Methods: Order_entree (Employee orders entree in system for customer untilizing Entre_name)
 
-Customize_entree (Customer orders an entree, but would like it to be customized. Utilizes attribute Entre_name and Entre_ingredients.)
+Customize_entree (Customer orders an entree, but would like it to be customized. Utilizes attribute Entre_name and Entre_ingredient.)
 
 Apply_happy_hour_discount(Employee runs this method if the customer is purchasing food or drink applicable to happy hour utilizing the Entre_on_happy_hour attribute)
