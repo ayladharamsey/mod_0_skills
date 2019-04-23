@@ -5,6 +5,5 @@ Attributes:
 	Date_working: Monday, Wednesday, Friday (datetime)
 	Full_Time_Employee: False (boolean)
 	Calculate_Overtime: 24 hours total, no overtime
-	Add_Employee: No
-	Delete_Employee: No
+	Add_Server: Yes
 	Pay_Employee: Pays employee for 24 hours of work
