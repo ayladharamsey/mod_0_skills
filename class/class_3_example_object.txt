@@ -1,0 +1,7 @@
+Object: Bus
+Attributes: 
+	Name: 0 Line
+	Time_arriving: 9:30 AM
+	Time_departing: 9:03 AM
+	Location: 8th & Washington Bus Stop
+	Route: Takes 8th down to Lincoln, takes Lincoln North, left onto 15th street, stops at 15th & California 

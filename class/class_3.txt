@@ -1,0 +1,13 @@
+Class: City Transportation
+
+Objects: Bus (string), Ride Share (string), Bike (string), Train (string)
+
+Attributes: Name (string), Time_arriving (datetime), Route (string), Time_departing (datetime), Location (string)
+
+Methods: 
+
+Calculate_arrivaltime (Utilizes the Route and Time_arriving attribute to determine when the passenger will arrive)
+
+Determine_route (Utilizes the Route attribute to determine which route is most efficient for the passenger)
+
+Calculate_departuretime (Utilizes the Location of the bus as well as the Time_departing to determine the next bus leaving in the route the passenger would like)
